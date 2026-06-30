@@ -23,7 +23,7 @@ Compile all source files using: gcc *.c
 Execution
 
 ## Run the program using:
-./a.out <operand1> '<operator>' <operand2>
+./a.out operand1 operator operand2
 
 ## Example
 ./a.out 123456789123456789123456789 '+' 987654321987654321987654321
